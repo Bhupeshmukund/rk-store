@@ -25,7 +25,7 @@ const Navbar = () => {
         </ul>
       </div>
       <div className="cart absolute  top-6  right-1 ">
-      <div class="flex ml-auto  bg-white hover:text-white hover:bg-indigo-500 border-0 py-2 space-x-5 auto  px-12 focus:outline-none rounded"> For order +91 9896099653  & +91 8307857166 </div>
+      <div className="flex ml-auto  bg-white hover:text-white hover:bg-indigo-500 border-0 py-2 space-x-5 auto  px-12 focus:outline-none rounded"> For order +91 9896099653  & +91 8307857166 </div>
       </div>
     </div>
     </div>
